@@ -23,5 +23,5 @@
 
   Now I specialize in web development, and I'm researching Blockchain technologies.<br>So, I'm gonna use it.
   Please, get in touch me.<br>
-  My Portfolio <a href="https://gamy36428.github.io/">Here</a><br><br>
+  My Portfolio <br><br>
   Thanks!<br><br>
