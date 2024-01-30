@@ -23,6 +23,8 @@
 
   Now I specialize in web development, and I'm researching Blockchain technologies.<br>So, I'm gonna use it.
   Please, get in touch me.<br>
+  Thanks!<br><br>
+
   ## Prefered Technicals
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
@@ -126,4 +128,9 @@
 </table>
 <br>
 <br>
-  Thanks!<br><br>
+
+  ### :fire: My Stats :
+![snow-dev-1004's GitHub stats](https://github-readme-stats.vercel.app/api?username=snow-dev-1004&show_icons=true&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snow-dev-1004&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![snow-dev-1004's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snow-dev-1004&theme=dark&background=000000)](https://git.io/streak-stats)
+
