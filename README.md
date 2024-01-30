@@ -130,7 +130,7 @@
 <br>
 
   ### :fire: My Stats :
-![snow-dev-1004's GitHub stats](https://github-readme-stats.vercel.app/api?username=snow-dev-1004&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snow-dev-1004&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  [![snow-dev-1004's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snow-dev-1004&theme=dark&background=000000)](https://git.io/streak-stats)
+![snow-dev-1004's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gamy36428&show_icons=true&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamy36428&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![snow-dev-1004's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gamy36428&theme=dark&background=000000)](https://git.io/streak-stats)
 
